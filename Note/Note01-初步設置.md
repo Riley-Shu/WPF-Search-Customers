@@ -1,6 +1,7 @@
 # Step01 建立專案
 
-![[N01-P01.png]]
+![image](https://github.com/Riley-Shu/WebForSearchingYoubike/blob/master/Note/image/N01-P01.png)
+
 
 # Step02 初步編輯版面
 ```html
@@ -59,13 +60,15 @@
 </Window>
 
 ```
-![[N01-P02.png]]
+![image](https://github.com/Riley-Shu/WebForSearchingYoubike/blob/master/Note/image/N01-P02.png)
+
 
 # Step03 建立資料庫
 - 建立資料庫
 - 建立Table
 - 插入資料
-![[N01-P03.png]]
+![image](https://github.com/Riley-Shu/WebForSearchingYoubike/blob/master/Note/image/N01-P03.png)
+
 ```sql
 use Sample06
  insert into Customers
