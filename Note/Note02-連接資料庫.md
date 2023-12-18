@@ -1,6 +1,6 @@
 # Step01 加入連接字串
 ## Resources.resx
-![[N02-P01.png]]
+![image](https://github.com/Riley-Shu/WPF-Search_Customers/blob/master/Note/image/N02-P01.png)
 
 # Step02 建立版面初始化
 ```cs
@@ -42,4 +42,4 @@ namespace Sample06_WPF
         }
 ```
 - 注意: 記得確認語法
-![[N02-P02.png]]
+![image](https://github.com/Riley-Shu/WPF-Search_Customers/blob/master/Note/image/N02-P02.png)
