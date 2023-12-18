@@ -193,7 +193,7 @@ private void btnCompany(Object sender, RoutedEventArgs e)
 </StackPanel>
 ```
 
-![[N03-P01.png]]
+![image](https://github.com/Riley-Shu/WPF-Search_Customers/blob/master/Note/image/N03-P01.png)
 ## 補充說明
 RoutedEventArgs 和 SelectionChangedEventArgs 都是 WPF 中的事件參數。
 
