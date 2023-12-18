@@ -1,8 +1,9 @@
 # Step01 建立專案
 
 ![image](https://github.com/Riley-Shu/WebForSearchingYoubike/blob/master/Note/image/N01-P01.png)
-
-
+Note/image/N01-P01.png
+![image](https://github.com/Riley-Shu/WebForSearchingYoubike/blob/master/Note/image/01_1_1.png)
+https://github.com/Riley-Shu/WPF-Search_Customers/blob/master/Note/image/N01-P01.png
 # Step02 初步編輯版面
 ```html
 <Window x:Class="Sample06_WPF.MainWindow"
